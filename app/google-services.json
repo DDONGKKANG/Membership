@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "489700536413",
+    "firebase_url": "https://cosmetic-exp.firebaseio.com",
+    "project_id": "cosmetic-exp",
+    "storage_bucket": "cosmetic-exp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489700536413:android:0e9a45a94ef9e4e5",
+        "android_client_info": {
+          "package_name": "com.example.membership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489700536413-3mg232un370daanj6pda4gqr0b51j5ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.membership",
+            "certificate_hash": "56ad09c7b33f058d119189df92141c541d693735"
+          }
+        },
+        {
+          "client_id": "489700536413-gaalg92e3282qj6m5abud4i0d0u4bjdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ifxigVGe-WMoVcs97yQ9B8OJ37EBs4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489700536413-gaalg92e3282qj6m5abud4i0d0u4bjdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
