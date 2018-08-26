@@ -121,4 +121,11 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
         startActivityForResult(intent, REQUEST_CODE_MENU);
         finish();
     }
+
+    public void addButtonClicked(View v) {
+        Intent intent = new Intent(getApplicationContext(), AddActivity.class);
+        startActivityForResult(intent, REQUEST_CODE_MENU);
+        finish();
+    }
+
 }
